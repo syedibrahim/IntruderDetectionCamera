@@ -11,12 +11,12 @@
 4. Additionally use **pip** to install dlib and numpy
 
 **To run the program:**
-1. Clone this repository
-   `git clone https://github.com/zeeshanovic/IntruderDetectionCamera.git`
-   `cd IntruderDetectionCamera'
+1. Clone this repository <br>
+   `git clone https://github.com/zeeshanovic/IntruderDetectionCamera.git` <br>
+   `cd IntruderDetectionCamera`
 2. Run **Main.py** file <br>
    `python main.py`
 3. To save new face encoding <br>
-   `python save_new_face.py -f image.jpg -n "ibrahim"` <br>
+   `python save_known_face.py -f image.jpg -n "ibrahim"` <br>
                      OR<br>
-   `python save_new_face.py -f image.png -n "ibrahim"`
+   `python save_known_face.py -f image.png -n "ibrahim"`
