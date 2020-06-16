@@ -1,8 +1,8 @@
 # This python script can be used to save new face in face_encodings dir.
 # If you want to save a new face encoding
-#  python save_new_face.py -f image.jpg -n "ibrahim"
+#  python save_known_face.py -f image.jpg -n "ibrahim"
 #                       OR
-#  python save_new_face.py -f image.png -n "ibrahim"
+#  python save_known_face.py -f image.png -n "ibrahim"
 
 
 import cv2
