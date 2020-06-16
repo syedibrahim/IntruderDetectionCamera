@@ -12,7 +12,8 @@
 
 **To run the program:**
 1. Clone this repository
-   
+   `git clone https://github.com/zeeshanovic/IntruderDetectionCamera.git`
+   `cd IntruderDetectionCamera'
 2. Run **Main.py** file <br>
    `python main.py`
 3. To save new face encoding <br>
